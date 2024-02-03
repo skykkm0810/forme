@@ -1,4 +1,4 @@
-# 개인 포트폴리오나 써볼까
+# 이것저것 하다가 생긴 일들을 적은 팁
 
 ## react.ts 에서 TwailWind Css : Error 해결법
 
